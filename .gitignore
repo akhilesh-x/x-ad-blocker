@@ -1,0 +1,7 @@
+# Project-specific
+.qodo
+
+# macOS
+.DS_Store
+**/.DS_Store
+icons/.DS_Store
