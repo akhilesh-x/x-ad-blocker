@@ -16,11 +16,6 @@ X Ad Blocker is a Chrome extension that blocks promoted posts (ads) on X.com (fo
 
 ## Installation
 
-### From Chrome Web Store (Coming Soon)
-1. Navigate to the Chrome Web Store
-2. Search for "X Ad Blocker"
-3. Click "Add to Chrome"
-
 ### Manual Installation
 1. Download or clone this repository
 2. Open Chrome and go to `chrome://extensions/`
